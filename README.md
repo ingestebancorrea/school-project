@@ -40,7 +40,7 @@ Las herramientas que utilice para crear este proyecto
 * Toolkit de diseño [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
 
 # Enlace explicación de aplicación web:
-https://drive.google.com/file/d/1XeeIGQJ1-wYXVIQDfBaQUqsCduudHCZ9/view?usp=sharing
+https://1drv.ms/v/c/f524018c4406d934/EXZtyWgF_stBkboAoaa9_nkBsfVuVjQ2kUfagFeUy-YGTA?e=SG3jSs
 
 ## Autores ✒️
 
